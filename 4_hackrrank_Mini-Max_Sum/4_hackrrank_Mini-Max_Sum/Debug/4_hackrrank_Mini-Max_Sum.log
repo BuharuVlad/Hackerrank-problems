@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\buhar\source\repos\4_hackrrank_Mini-Max_Sum\4_hackrrank_Mini-Max_Sum\Source.cpp(11,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buhar\source\repos\4_hackrrank_Mini-Max_Sum\4_hackrrank_Mini-Max_Sum\Source.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+  4_hackrrank_Mini-Max_Sum.vcxproj -> C:\Users\buhar\source\repos\4_hackrrank_Mini-Max_Sum\Debug\4_hackrrank_Mini-Max_Sum.exe

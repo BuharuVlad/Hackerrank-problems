@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\buhar\source\repos\hanckerrank_1_Diagonal_Difference\hanckerrank_1_Diagonal_Difference\Source.cpp(9,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buhar\source\repos\hanckerrank_1_Diagonal_Difference\hanckerrank_1_Diagonal_Difference\Source.cpp(10,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\buhar\source\repos\hanckerrank_1_Diagonal_Difference\hanckerrank_1_Diagonal_Difference\Source.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+  hanckerrank_1_Diagonal_Difference.vcxproj -> C:\Users\buhar\source\repos\hanckerrank_1_Diagonal_Difference\Debug\hanckerrank_1_Diagonal_Difference.exe
